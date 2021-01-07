@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8da76168-d215-42c2-8585-49c05abb2902" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1mP8YAbjF2iJwof7zalYPGLSiOR" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/spring-cloud-consumer/src/main/resources" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.spring.cloud" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Spring\SpringCloud\spring-cloud-consumer\src\main\resources" />
+      <recent name="E:\Spring\SpringCloud\spring-cloud-consumer\src\main\java" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.ZuulMainType">
+    <configuration name="DashboardMainType" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="spring-cloud-dashboard" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.spring.cloud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.spring.cloud.DashboardMainType" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekaMainType" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="spring-cloud-eureka" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.spring.cloud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.spring.cloud.EurekaMainType" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FeignMainType" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="spring-cloud-feign" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.spring.cloud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.spring.cloud.FeignMainType" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProviderMainType" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" singleton="false" temporary="true" nameIsGenerated="true">
+      <module name="spring-cloud-provider" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.spring.cloud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.spring.cloud.ProviderMainType" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ZuulMainType" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="spring-cloud-zuul" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.spring.cloud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.spring.cloud.ZuulMainType" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Remote" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="LOCAL" value="false" />
+      <deployment />
+      <server-settings>
+        <data>
+          <option name="targets">
+            <list>
+              <WatchedTargetModelImpl>
+                <option name="name" value="CONTEXT_XML" />
+                <name>CONTEXT_XML</name>
+              </WatchedTargetModelImpl>
+              <StagingTargetModelImpl>
+                <option name="name" value="STAGING" />
+                <name>STAGING</name>
+              </StagingTargetModelImpl>
+            </list>
+          </option>
+          <option name="transportHostId" />
+        </data>
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="TOMCAT_LOCALHOST_LOG_ID" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="62301" />
+        <option name="LOCAL" value="false" />
+      </RunnerSettings>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.ZuulMainType" />
+        <item itemvalue="Spring Boot.ProviderMainType" />
+        <item itemvalue="Spring Boot.DashboardMainType" />
+        <item itemvalue="Spring Boot.FeignMainType" />
+        <item itemvalue="Spring Boot.EurekaMainType" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8da76168-d215-42c2-8585-49c05abb2902" name="Default Changelist" comment="" />
+      <created>1609383910625</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1609383910625</updated>
+      <workItem from="1609383913669" duration="15779000" />
+      <workItem from="1609723062950" duration="72000" />
+      <workItem from="1609726630159" duration="15576000" />
+      <workItem from="1609830357212" duration="15000" />
+      <workItem from="1609837483864" duration="116000" />
+      <workItem from="1610000279361" duration="199000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="522" y="0" key="#Auto_Import" timestamp="1609406693700">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="522" y="0" key="#Auto_Import/0.0.1536.824@0.0.1536.824" timestamp="1609406693700" />
+    <state x="386" y="0" width="936" height="824" key="#ProviderMainType" timestamp="1609398865574">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="386" y="0" width="936" height="824" key="#ProviderMainType/0.0.1536.824@0.0.1536.824" timestamp="1609398865574" />
+    <state x="223" y="9" width="1089" height="815" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1609407254234">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="9" width="1089" height="815" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1609407254234" />
+    <state x="0" y="66" key="#com.intellij.ide.util.MemberChooser" timestamp="1609747749747">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="0" y="66" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1609747749747" />
+    <state width="1481" height="256" key="GridCell.Tab.0.bottom" timestamp="1609751441907">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1481" height="256" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1609751441907" />
+    <state width="1481" height="256" key="GridCell.Tab.0.center" timestamp="1609751441907">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1481" height="256" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1609751441907" />
+    <state width="1481" height="256" key="GridCell.Tab.0.left" timestamp="1609751441907">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1481" height="256" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1609751441907" />
+    <state width="1481" height="256" key="GridCell.Tab.0.right" timestamp="1609751441907">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1481" height="256" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1609751441907" />
+    <state width="1481" height="256" key="GridCell.Tab.1.bottom" timestamp="1609751441907">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1481" height="256" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1609751441907" />
+    <state width="1481" height="256" key="GridCell.Tab.1.center" timestamp="1609751441907">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1481" height="256" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1609751441907" />
+    <state width="1481" height="256" key="GridCell.Tab.1.left" timestamp="1609751441907">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1481" height="256" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1609751441907" />
+    <state width="1481" height="256" key="GridCell.Tab.1.right" timestamp="1609751441907">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1481" height="256" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1609751441907" />
+    <state x="186" y="0" key="Maven.ArtifactSearchDialog" timestamp="1609406989807">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="186" y="0" key="Maven.ArtifactSearchDialog/0.0.1536.824@0.0.1536.824" timestamp="1609406989807" />
+    <state x="0" y="0" key="SettingsEditor" timestamp="1609407121204">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="0" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1609407121204" />
+    <state x="416" y="200" key="com.intellij.ide.util.TipDialog" timestamp="1609723064543">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="416" y="200" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1609723064543" />
+    <state x="343" y="67" width="849" height="690" key="find.popup" timestamp="1609739900915">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="343" y="67" width="849" height="690" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1609739900915" />
+    <state x="78" y="16" key="new project wizard" timestamp="1609745335803">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="78" y="16" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1609745335803" />
+    <state x="454" y="-2" width="840" height="1034" key="search.everywhere.popup" timestamp="1609748910486">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="454" y="-2" width="840" height="1034" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1609748910486" />
+  </component>
+</project>
